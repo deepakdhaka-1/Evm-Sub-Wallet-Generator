@@ -37,4 +37,4 @@ python bot.py
 cat evm_wallets.csv | clip.exe
 ```
 -This command will copy the content of evm wallets on your clipboard, paste it in any excel or safe location.
--- Content is seperated by commas ( , )
+-Content is seperated by commas ( , )
